@@ -1,4 +1,4 @@
-# Edson N. Nascimento 👋  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Gmail Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edsnasc)](https://github.com/edsnasc) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/edson-nascimento-5783681aa)](www.linkedin.com/in/edson-nascimento-5783681aa)
+# Edson N. Nascimento 👋  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Gmail Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edsnasc)](https://github.com/edsnasc) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/edson-nascimento-5783681aa)](www.linkedin.com/in/edson-nascimento-5783681aa)
 
 <p align="center">
  <img src="https://cdn.pixabay.com/photo/2014/04/02/10/13/notebook-303161__340.png" height="150" width="150" alt="img_notebook" />
