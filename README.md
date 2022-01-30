@@ -4,7 +4,7 @@
  <img src="https://cdn.pixabay.com/photo/2014/04/02/10/13/notebook-303161__340.png" height="150" width="150" alt="img_notebook" />
 
 ## 📝About me
-<p>Sou Desenvolvedor e um apaixonado por técnologia, cursando faculdade de Analise e Desenvolvimento de Sistemas estou no 6º Semestre, atualmente focado em aprender desevolvimento Web</p><br>
+<p>Sou Desenvolvedor e um apaixonado por técnologia, formado em Análise e Desenvolvimento de Sistema, atualmente focado em aprender desevolvimento Web com as principais tecnologias do mercado</p><br>
 
 ## 🚀 Skills 
 
