@@ -26,7 +26,7 @@
 ![SQLServer Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cunhacinthia&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Cinthia Cunha github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsnasc&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Edson Nascimento github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cunhacinthia&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 
