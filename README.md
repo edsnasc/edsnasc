@@ -28,12 +28,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsnasc&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Edson Nascimento github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsnasc&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117"/>
-  
-<p align="center">
-<a href="https://github.com/edsnasc?tab=followers">
-   <img src="https://img.shields.io/github/followers/edsnasc?label=Followers&style=social" alt="GitHub Badge">
-</a>
-</p>
+
+[![Edson Nascimento profile views](https://u8views.com/api/v1/github/profiles/72613742/views/day-week-month-total-count.svg)](https://u8views.com/github/edsnasc)
 </div>
 
 
