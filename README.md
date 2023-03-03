@@ -30,12 +30,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsnasc&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117"/>
  
 <p align="center">
-<a href="https://github.com/edsnasc/github-profile-views-counter">
+ <a href="https://github.com/edsnasc/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=edsnasc">
+ </a>
+</p>
+ 
+<p align="center">
+<a href="https://github.com/edsnasc?tab=followers">
+   <img src="https://img.shields.io/github/followers/edsnasc?label=Followers&style=social" alt="GitHub Badge">
 </a>
-    <a href="https://github.com/edsnasc?tab=followers">
-        <img src="https://img.shields.io/github/followers/edsnasc?label=Followers&style=social" alt="GitHub Badge">
-    </a>
 </p>
 </div>
 
