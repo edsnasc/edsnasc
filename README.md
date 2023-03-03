@@ -29,7 +29,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=edsnasc&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Edson Nascimento github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edsnasc&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117"/>
  
- <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: edsnasc Visitor's Count" /></p>
+<p align="center">
+<a href="https://github.com/edsnasc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=edsnasc">
+</a>
+    <a href="https://github.com/edsnasc?tab=followers">
+        <img src="https://img.shields.io/github/followers/edsnasc?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
 </div>
 
 
