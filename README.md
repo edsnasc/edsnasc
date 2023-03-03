@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome!;I'm dson Nascimento!)](https://git.io/typing-svg)
+
 # Edson N. Nascimento &nbsp;&nbsp;&nbsp;&nbsp;[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edsnasc)](https://github.com/edsnasc) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-nascimento-5783681aa/)](https://www.linkedin.com/in/edson-nascimento-5783681aa/)
 
 <p align="center">
