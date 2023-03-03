@@ -31,7 +31,7 @@
  
 <p align="center">
  <a href="https://github.com/edsnasc/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=edsnasc">
+    ![](https://komarev.com/ghpvc/?username=edsnasc&color=green)
  </a>
 </p>
  
